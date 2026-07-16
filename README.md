@@ -31,3 +31,5 @@ Based on the findings, business insights and recommendations are provided to hel
 - Provide competitive compensation and career growth opportunities.
 - Strengthen onboarding and retention programs for new employees.
 - Conduct regular employee feedback surveys to identify retention risks early.
+## Conclusion
+This analysis identified the major factors associated with employee attrition, including overtime, job satisfaction, monthly income, years at the company, and department. The insights highlight opportunities for HR to improve employee retention through better work-life balance, competitive compensation, career development, and employee engagement initiatives. Overall, the project demonstrates how data-driven analysis can support informed HR decisions and help organizations reduce employee turnover.
